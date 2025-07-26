@@ -1,7 +1,16 @@
+import { Header } from './components/Header';
+import './HomePage.css';
+
 export function HomePage() {
   return (
-    <div>
-      Home page
-    </div>
+    <>
+      <title>Home</title>
+
+      <Header />
+
+      <div>
+        
+      </div>
+    </>
   );
 }
