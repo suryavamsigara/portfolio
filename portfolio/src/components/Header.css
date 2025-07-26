@@ -1,7 +1,7 @@
 .header {
-  background-color: rgb(19, 19, 19);
+  background-color: rgb(42, 42, 72);
   position: fixed;
-  padding: 20px 40px;
+  padding: 10px 40px;
   top: 0;
   left: 0;
   right: 0;
@@ -24,19 +24,15 @@ li {
 
 .nav-items {
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255);
   letter-spacing: 0.5px;
   cursor: pointer;
   position: relative;
 }
 
 .name {
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 20px;
   font-weight: bold;
   cursor: pointer;
-}
-
-.nav-header {
-  width: 100%;
 }
