@@ -38,6 +38,24 @@ function App() {
     description: 'A character-level language model that generates creative names by predicting the next character based on the previous two.',
     github: 'https://github.com/suryavamsigara/trigram-language-model',
     deploy: 'Link'
+  }, {
+    name: 'Rock-Paper-Scisorrs',
+    id: 'id7',
+    description: 'A classic browser-based Rock-Paper-Scissors game where you battle the computer.',
+    github: 'https://github.com/suryavamsigara/rock-paper-scissors-game',
+    deploy: 'https://suryavamsigara.github.io/rock-paper-scissors-game/'
+  }, {
+    name: 'Calculator',
+    id: 'id6',
+    description: 'A simple calculator using HTML, CSS, and JavaScript',
+    github: 'https://github.com/suryavamsigara/caclulator',
+    deploy: 'https://suryavamsigara.github.io/caclulator/'
+  }, {
+    name: 'Quiz',
+    id: 'id8',
+    description: 'A simple quiz app that shows score after completion.',
+    github: 'https://github.com/suryavamsigara/quiz',
+    deploy: 'https://suryavamsigara.github.io/quiz/'
   }]);
 
   return (
