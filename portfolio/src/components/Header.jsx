@@ -18,10 +18,10 @@ export function Header() {
             <Link to="/skills" className="nav-items">Skills</Link>
           </li>
           <li>
-            <Link to="projects" className="nav-items">Projects</Link>
+            <Link to="/projects" className="nav-items">Projects</Link>
           </li>
           <li>
-            <Link to="contact" className="nav-items">Contact</Link>
+            <Link to="/contact" className="nav-items">Contact</Link>
           </li>
         </ul>
       </nav>

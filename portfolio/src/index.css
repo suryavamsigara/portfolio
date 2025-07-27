@@ -1,3 +1,5 @@
 body {
+  padding-top: 80px;
+  color: white;
   background: radial-gradient(circle, #1a1a2e, #2e2e48);
 }
