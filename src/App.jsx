@@ -51,6 +51,7 @@ function App() {
       }/>
       <Route path="about" element={<AboutPage />} />
       <Route path="skills" element={<SkillsPage />} />
+      <Route path="contact" element={<ContactPage />} />
     </Routes>
   );
 }
