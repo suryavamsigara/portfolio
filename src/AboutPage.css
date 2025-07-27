@@ -1,0 +1,28 @@
+.home-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 80px;
+  margin-right: -80px;
+}
+
+.photo-section {
+  max-width: 40%;
+  margin-right: 100px;
+  margin-left: 50px;
+}
+
+.avatar {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  border: 6px solid #4386c0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.home-content p {
+  font-size: 1.5em;
+  color: #b9b9b9;
+}
