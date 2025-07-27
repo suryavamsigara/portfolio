@@ -3,6 +3,8 @@ import { Routes, Route } from 'react-router';
 import { HomePage } from './HomePage';
 import { ProjectsPage } from './ProjectsPage';
 import { AboutPage } from './AboutPage';
+import { SkillsPage } from './SkillsPage';
+import { ContactPage } from './ContactPage';
 import './App.css'
 
 function App() {
@@ -48,6 +50,7 @@ function App() {
         />
       }/>
       <Route path="about" element={<AboutPage />} />
+      <Route path="skills" element={<SkillsPage />} />
     </Routes>
   );
 }
