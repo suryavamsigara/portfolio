@@ -15,8 +15,8 @@ function App() {
     name: 'Todo List',
     id: 'id2',
     description: 'A simple yet efficient task manager that lets users add and delete tasks with features like due date',
-    github: 'Github',
-    deploy: 'Link'
+    github: 'https://github.com/suryavamsigara/todo-list',
+    deploy: 'https://todolistbyvamsi.netlify.app/'
   }, {
     name: 'Trigram language model',
     id: 'id3',
