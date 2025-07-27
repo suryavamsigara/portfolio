@@ -6,12 +6,12 @@
 
 .photo-section {
   max-width: 40%;
-  margin-right: 180px;
+  margin-right: 160px;
 }
 
 .avatar {
-  width: 260px;
-  height: 260px;
+  width: 320px;
+  height: 320px;
   border-radius: 50%;
   border: 6px solid #4386c0;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);

@@ -5,7 +5,8 @@ export function Header() {
   return (
     <>
       <nav className="header">
-        <p className="name">Suryavamsi</p>
+        <Link to="/" className="nav-items"><p className="name">Suryavamsi</p></Link>
+        
         <ul className="nav-bar">
           <li>
             <Link to="/" className="nav-items">Home</Link>

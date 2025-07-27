@@ -17,7 +17,7 @@ export function HomePage() {
         </div>
 
         <div className="photo-section">
-          <img className="avatar" src="./profile-pic.jpg" />
+          <img className="avatar" src="./profile-pic.png" />
         </div>
       </div>
     </>
